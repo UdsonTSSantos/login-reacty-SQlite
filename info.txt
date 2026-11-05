@@ -1,0 +1,6 @@
+npm install lucide-react
+
+npm init -y
+npm install express dotenv jsonwebtoken bcrypt sqlite3 cors
+npm install --save-dev typescript @types/express @types/node @types/jsonwebtoken @types/bcrypt @types/cors tsx
+npx tsc --init
